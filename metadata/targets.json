@@ -1,0 +1,28 @@
+{
+ "signatures": [
+  {
+   "keyid": "f745ffbe04a156289232b852fbc9c24e5f3f4eb6d5effe1708b792dad42594c0",
+   "sig": "c952528db032d3d916506508b1667ff1d65f459b97c1843efcd1b1ed4c93902992ce46b2de14a6e4de435739087aa1aef034935ececba7c7fc93bea8d3c6e009"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "2027-06-22T19:46:50Z",
+  "spec_version": "1.0.31",
+  "targets": {
+   "IdealHouse-1.0.22.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "1b1cbdc847582a6763555d9295c7d7f4ff7f93e23584e1681a0511e999ee6f9f"
+    },
+    "length": 265720953
+   }
+  },
+  "version": 1
+ }
+}
